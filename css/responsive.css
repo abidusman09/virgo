@@ -1,0 +1,1012 @@
+@media(max-width: 1699.98px){
+	.container{
+		max-width: 830px;
+	}
+	.logo a{
+		font-size: 3rem;
+	}
+	h1{
+		font-size: 4.8rem;
+	}
+	.ban-img {
+		width: calc(100% + 100% + 58%);
+		padding-top: 10rem;
+		margin-left: -10rem;
+	}
+	.ban-btn button{
+		width: 21rem;
+    	height: 8rem;
+		font-size: 2rem;
+	}
+	.ban-btn button span{
+		right: 4.5rem;
+	}
+	.ban-btn button span:hover{
+		right: 5rem;
+	}
+	.ban-btn button span img{
+		width: 1rem;
+	}
+	h2{
+		font-size: 4rem;
+	}
+	.banner-content .text-center{
+		margin-top: -28rem;
+		max-width: 39rem;
+	}
+	.banner-content .text-center h3{
+		font-size: 2rem;
+		margin-bottom: 1rem;
+	}
+	.banner-content p{
+		margin-bottom: 3rem;
+		font-size: 2rem;
+	}
+	.ban-dmd-img{
+		bottom: 17px;
+	}
+	.ban-reel-img {
+		right: -41rem;
+    	bottom: 5.8rem
+	}
+	.ban-dmd-img img,
+	.ban-reel-img img,
+	.hat-img img{
+		width: 70%;
+	}
+	.ban-count ul li h4{
+		font-size: 2rem;
+	}
+	.rect-img{
+		top: 62rem;
+		left: 15rem;
+	}
+	.ban-slogan h3{
+		font-size: 2.3rem;
+	}
+	.ban-count ul li span{
+		font-size: 2rem;
+		width: 15rem;
+		line-height: 6rem;
+	}
+	.product-wrap .col-md-2 {
+		width: 25%;
+		position: relative;
+	}
+	.load-left-img {
+		left: -11rem;
+		bottom: 0;
+		width: 35rem;
+	}
+	.load-area {
+		padding-top: 5rem;
+	}
+	.load-right-img {
+		right: -5.5rem;
+		width: 28rem;
+	}
+	.load-area ul{
+		max-width: 79rem;
+	}
+	.load-area ul li span{
+		width: 7rem;
+		height: 7rem;
+	}
+	.load-area ul li h5{
+		font-size: 2rem;
+	}
+	span.win-left-img {
+		width: 23%;
+    	left: -19px;
+	}
+	.win-right-img {
+		right: 12rem;
+		left: auto;
+	}
+	.bonus-sec {
+		padding: 8rem 0;
+	}
+	.each-bonus-txt {
+		padding: 0;
+	}
+	.ft-women-outer {
+		right: 0rem;
+		width: 30%;
+	}
+	.footer-sec {
+		padding-top: 5rem;
+	}
+	.getin-touch h4{
+		margin: 5rem 0;
+	}
+	.win-left-img {
+		top: 0;
+	}
+	.ft-sm-img {
+		left: 17rem;
+	}
+	.humburger {
+		border-radius: 1.8rem;
+		height: 7.8rem !important;
+		width: 10.1rem;
+	}
+	.foot-txt-blk {
+		margin-bottom: 15rem;
+	}
+	.ft-sm-img {
+		top: 10rem;
+	}
+	h4{
+		font-size: 2.4rem;
+	}
+		
+	/*=========== log-in-page ===================*/
+	.login-footer{
+		padding-top: 14rem;
+	}
+	.login-footer .pro-flw {
+		right: 13rem;
+		top: 55rem;
+		left: auto;
+	}
+	.login-footer .ft-sm-img {
+		left: 12rem;
+	}
+	.login-footer .ft-women-outer {
+		right: -3rem;
+		width: 28%;
+	}
+	.login-block{
+		margin-bottom: 25rem;
+	}
+	/*=========== game-slot-fruit page ===================*/
+	.game-fruit .container {
+		max-width: 1024px;
+	}
+	.game-fruit .pro-flw {
+		top: 60%;
+		right: 10rem;
+	}
+	.game-fruit .flr-img {
+		top: 60%;
+		left: 10rem;
+	}
+	.one-women-left{
+		width: 20%;
+	}
+	.two-women-right{
+		width: 30%;
+	}
+	/*=========== game-page ===================*/
+	.game-left-women,
+	.game-right-women {
+		width: 45.4rem;
+		top: 14rem !important;
+	}
+	.prize-img {
+		width: 73rem;
+		right: 11rem;
+	}
+	.prize-txt h2{
+		font-size: 4.5rem;
+	}
+	.game-footer .ft-women-outer {
+		width: 20%;
+	}
+	.game-footer .ft-sm-img {
+		top: 0;
+		width: 7rem;
+	}
+}
+@media(max-width: 1199.98px){
+	.logo a {
+		font-size: 2.5rem;
+	}
+	h1 {
+		font-size: 3.3rem;
+	}
+	h2{
+		font-size: 3rem;
+	}
+	h3{
+		font-size: 2.8rem;
+	}
+	p{
+		font-size: 2rem;
+	}
+	.flr-img {
+		top: 12rem;
+		left: 3rem;
+		width: 8rem;
+	}
+	.rect-img {
+		top: 52rem;
+		left: 2rem;
+		width: 8rem;
+	}
+	.ban-reel-img {
+		right: -46rem;
+	}
+	.ban-dmd-img {
+		bottom: 0;
+		width: 37rem;
+	}
+	.product-wrap .col-md-2 {
+		width: 33.33%;
+	}
+	.product-sec .text-center h2{
+		font-size: 6rem;
+	}
+	.load-area ul {
+		max-width: 66rem;
+	}
+	.load-left-img {
+		left: -8rem;
+		bottom: 0;
+		width: 26rem;
+	}
+	.load-right-img {
+		right: -7.5rem;
+		width: 23rem;
+	}
+	.load-mr-btn{
+		margin-bottom: 4rem;
+	}
+	.load-area ul li img {
+		width: 2rem;
+		height: 2rem;
+	}
+	.each-product-box{
+		padding: 1.5rem;
+	}
+	.win-right-img {
+		right: 7rem;
+		width: 10%;
+	}
+	.credit-btn button{
+		height: 6rem;
+		line-height: 5rem;
+		width: 27rem;
+		font-size: 2.4rem;
+	}
+	.ft-women-outer {
+		width: 38%;
+		bottom: -10rem;
+	}
+	.win-left-img {
+		top: 3rem;
+	}
+	.ft-sm-img {
+		width: 10%;
+	}
+	/*=========== log-in-page ===================*/
+	.login-footer .flr-img {
+		top: 0;
+		left: 12px;
+	}
+	.login-footer .pro-flw {
+		right: 1.2rem;
+		width: 10rem;
+	}
+	.login-footer .win-right-img {
+		right: 1.2rem;
+		width: 8rem;
+		top: 0;
+	}
+	.login-play-btn span {
+		position: absolute;
+		top: calc(50% + -5px);
+		transform: translateY(-50%);
+		right: 75px;
+	}
+	/*=========== game-slot-fruit page ===================*/
+	.game-fruit .container {
+		max-width: 900px;
+	}
+	.game-fruit .pro-flw {
+		top: 60%;
+		right: 2rem;
+	}
+	.game-fruit .flr-img {
+		top: 60%;
+		left: 2rem;
+	}
+	.game-fruit .win-right-img {
+		top: 31%;
+		right: 2rem;
+	}
+	.game-fruit .rect-img {
+		top: 31%;
+		left: 2rem;
+	}
+	/*=========== game ===================*/
+	.game-left-women, .game-right-women {
+		width: 37.4rem;
+		top: 15rem;
+	}
+	.game-product-sec .rect-img {
+		top: 9%;
+	}
+	.prize-img {
+		right: 0;
+	}
+}
+
+@media(max-width: 991px){
+	
+	.ban-btn button {
+		width: 19rem;
+		height: 7rem;
+		font-size: 2rem;
+	}
+	.ban-btn button{
+		margin-right: 1rem;
+	}
+	.flr-img {
+		top: 11rem;
+		left: 2rem;
+		width: 7rem;
+	}
+	.hdr-srch{
+        font-size: 1.6rem;
+        width: 6rem;
+        height: 6rem;
+		margin-right: 1.5rem;
+    }
+	.humburger {
+		border-radius: 1.3rem;
+		height: 5.5rem !important;
+		width: 7.5rem;
+	}
+	.ban-btn button span {
+		right: 3.5rem;
+	}
+	.ban-btn button:hover span{
+		right: 3rem;
+	}
+	.ban-reel-img {
+		width: 71rem;
+	}
+	.ban-count{
+		margin-bottom: 1rem;
+	}
+	.product-wrap .col-md-2 {
+		width: 50%;
+	}
+	.pro-flw {
+		position: absolute;
+		left: 4rem;
+		width: 9rem;
+		top: 4rem;
+	}
+	.load-left-img {
+		left: -4.9rem;
+		bottom: 7.4rem;
+		width: 16rem;
+	}
+	.load-right-img {
+		right: -4.5rem;
+		width: 15rem;
+		bottom: 7rem;
+	}
+	.product-sec {
+		padding: 5rem 0;
+	}
+	.biggestwin-sec .text-center h4{
+		font-size: 2.4rem;
+	}
+	.each-bonus-box{
+		margin-bottom: 2rem;
+	}
+	.ft-sm-img {
+		left: 8rem;
+	}
+	/*=========== log-in-page ===================*/
+	.login-block{
+		width: 100%;
+		max-width: 60rem;
+		margin: 0 auto 15rem;
+		padding: 4rem;
+	}
+	.each-form label {
+		font-size: 2.4rem;
+	}
+	.login-block h2{
+		margin-bottom: 3rem;
+	}
+	.login-play-btn {
+		width: 26rem;
+		height: 9rem;
+		line-height: 9rem;
+	}
+	.login-play-btn span {
+		right: 50px;
+	}
+	/*=========== game-slot-fruit page ===================*/
+	.game-fruit .login-block {
+		max-width: 90%;
+	}
+	.slot-no li{
+		width: 2rem;
+		line-height: 2rem;
+		height: 2rem;
+		font-size: 1.2rem;
+		margin-bottom: 0.8rem;
+	}
+	.bet-box {
+		width: 20rem !important;
+	}
+	.each-feature-box{
+		width: 11rem;
+	}
+	.game-fruit .login-block{
+		padding: 2rem;
+	}
+	/*=========== game ===================*/
+	.game-left-women, .game-right-women {
+		width: 26.4rem;
+		top: 15rem;
+	}
+	.game-product-sec .rect-img {
+		top: 30rem;
+		width: 4rem;
+	}
+	.game-product-sec .pro-flw {
+		top: 24rem;
+		width: 4rem;
+	}
+	.game-product-sec .flr-img {
+		top: 17rem;
+		width: 4rem;
+	}
+	.game-product-sec .hat-img {
+		top: 11rem;
+		width: 9rem;
+		height: 9rem;
+	}
+	.game-product-sec .text-center{
+		padding-bottom: 0;
+	}
+	.prize-img {
+		width: 100%;
+		position: static;
+		opacity: 1;
+		transform: none;
+		margin-left: -7rem;
+	}
+	.prize-txt {
+		text-align: center;
+		padding: 5rem 0;
+	}
+	.prize-sec{
+		padding: 0;
+	}
+	/*=========== history ===================*/
+	.game-history-sec .dtl-tab-area {
+		margin: 0 2%;
+	}
+	/*=========== Security ===================*/
+	.security-sec .filter-area {
+		padding: 6rem 1.5rem
+	}
+	.security-sec .each-filter-box .form-control {
+		height: 6rem !important;
+	}
+	.security-sec .login-block {
+		max-width: 100%;
+	}
+	.security-sec .game-history-sec .dtl-tab-area {
+		margin: 0 3%;
+	}
+}
+@media(max-width: 767px){
+	.ban-btn button {
+		width: 13rem;
+		height: 5rem;
+		font-size: 1.5rem;
+	}
+	.hder-srch-area{
+		width: 25rem;
+		right: -5rem;
+	}
+	.hdr-srch{
+        font-size: 1.6rem;
+        width: 6rem;
+        height: 6rem;
+		margin-right: 0.5rem;
+    }
+	.ban-btn button span {
+		right: 1.8rem;
+	}
+	.ban-btn button:hover span{
+		right:1rem;
+	}
+	.hat-img{
+		bottom: -10rem;
+	}
+	.ban-img {
+		width: 100%;
+		padding-top: 3rem;
+		margin-left: 0;
+	}
+	.banner-content .text-center {
+		margin-top: -15rem;
+		max-width: 100%;
+	}
+	.rect-img {
+		top: 80rem;
+		left: 1rem;
+		width: 6rem;
+	}
+	.rect-img {
+		top: 65rem;
+		left: 1rem;
+		width: 6rem;
+	}
+	.hat-img{
+		right: -4rem;
+		bottom: -21rem
+	}
+	.banner-area{
+		padding-bottom: 5rem;
+	}
+	.ban-count ul li span{
+		width: 12rem;
+	}
+	.choose-btn {
+		font-size: 2rem;
+		width: 18rem;
+		height: 6rem;
+		line-height: 6rem;
+	}
+	.product-sec {
+		padding: 3rem 0;
+	}
+	.load-area ul li {
+		width: 50%;
+		margin-bottom: 2rem;
+		text-align: center;
+	}
+	.load-area ul{
+		flex-wrap: wrap;
+	}
+	.load-left-img,
+	.load-right-img {
+		width: 10rem;
+	}
+	.load-area ul li span {
+		width: 5rem;
+		height: 5rem;
+	}
+	.load-area ul li h5 {
+		font-size: 1.5rem
+	}
+	.load-mr-btn {
+		font-size: 2rem;
+		width: 18rem;
+		height: 6rem;
+		border-radius: 1.3rem;
+		margin-bottom: 4rem;
+		line-height: 6rem;
+	}
+	.load-area{
+		padding-top: 0;
+	}
+	.biggestwin-sec .text-center{
+		flex-direction: column;
+	}
+	.win-right-img {
+		right: 1.5rem;
+	}
+	.biggestwin-sec {
+		padding: 3rem 0;
+	}
+	.biggestwin-sec .text-center h4 {
+		margin-right: 0;
+		margin-bottom: 1rem;
+	}
+	span.win-left-img {
+		left: 0;
+	}
+	.footer-sec {
+		padding-top: 0;
+	}
+	.footer-sec .text-center h3 {
+		margin-bottom: 1rem;
+	}
+	.getin-touch h4 {
+		margin: 2rem 0;
+	}
+	.foot-social{
+		margin-bottom: 3rem;
+	}
+	.foot-social li a {
+		width: 4.5rem;
+		height: 4.5rem;
+		color: #fff;
+		font-size: 1.6rem;
+		line-height: 5rem;
+	}
+	.foot-social{
+		max-width: 28rem;
+	}
+	.footer-link li a{
+		font-size: 1.8rem;
+	}
+	.footer-link li a span,
+	.getin-touch p{
+		font-size: 1.6rem;
+	}
+	.footer-link li {
+		margin: 0 1.5rem 1rem 0;
+	}
+	.bonus-sec {
+		padding: 3rem 0;
+	}
+	.ft-women-outer {
+		bottom: -5rem;
+	}
+	.navigation{
+		width: 80%;
+	}
+	.product-sec .text-center h2 {
+		font-size: 4rem;
+	}
+	/*=========== log-in-page ===================*/
+	.login-footer{
+		padding-top: 14rem;
+	}
+	.login-block {
+		max-width: 43rem;
+	}
+	.login-play-btn h3{
+		font-size: 2rem;
+	}
+	.login-play-btn {
+		width: 22rem;
+		height: 8rem;
+		line-height: 9rem;
+	}
+	.login-play-btn span img {
+		width: 1rem;
+	}
+	.login-play-btn span {
+		top: calc(50% + -3px);
+	}
+	/*=========== game-slot-fruit page ===================*/
+	.each-feature-box {
+		width: 35%;
+		margin-bottom: 2rem;
+		margin-right: 1rem;
+	}
+	.game-features{
+		justify-content: center;
+	}
+	/*=========== history ===================*/
+	.game-history-sec .dtl-tab-area {
+		margin: 0;
+	}
+	.game-history-sec .tab-btn .nav-tabs .nav-item .nav-link {
+		width: 10rem;
+		font-size: 1.4rem;
+		margin-right: 0;
+	}
+	.game-history-sec .tab-btn .nav-tabs .nav-item{
+		margin-right: 1rem;
+	}
+	.history-game-tab-head h2 {
+		font-size: 2.5rem;
+	}
+	.gm-tab-hd-btn button {
+		margin-left: 1rem;
+		border: none;
+		width: 4rem;
+		height: 4rem;
+		font-size: 1.6rem;
+	}
+	.game-history-sec table{
+		width: 90rem !important;
+		overflow-x: auto !important;
+	}
+	.game-his-tab td, .game-his-tab th {
+		padding: 1rem;
+	}
+	.game-history-sec #example_wrapper .dt-row {
+		overflow-x: auto !important;
+	}
+	.game-history-sec #example_wrapper{
+		overflow: hidden;
+	}
+	.history-game-table #example_filter input{
+		width: 15rem;
+	}
+	.game-history-sec {
+		padding: 5rem 0 13rem 0;
+	}
+	/*=========== raffles-page ===================*/
+	.each-filter-box .form-control {
+		font-size: 1.4rem;
+		height: 4rem !important;
+		padding: 1rem;
+		line-height: 2rem;
+	}
+	/*=========== security-sec ===================*/
+	.security-sec .game-history-sec .dtl-tab-area {
+		margin: 0 1.5rem;
+	}
+	.security-sec .login-block h2 {
+		font-size: 2.3rem;
+	}
+}
+
+@media(max-width: 575px){
+	.ban-slogan,
+	.ban-btn{
+		text-align: center;
+	}
+	.container-fluid,
+	.container{
+		padding-left: 1.2rem;
+		padding-right: 1.2rem;
+	}
+	.banner-content .text-center {
+		margin-top: -10rem;
+		max-width: 100%;
+	}
+	.ban-dmd-img img, .ban-reel-img img, .hat-img img {
+		width: 44%;
+	}
+	.ban-reel-img {
+		right: -60rem;
+		bottom: 0;
+	}
+	.slot {
+		top: 22px;
+	}
+	.ban-count ul li {
+		display: inline-block;
+		margin: 0 0 2rem 0;
+	}
+	.product-wrap .col-md-2 {
+		width: 100%;
+	}
+	.credit-btn button {
+		height: 5rem;
+		line-height: 5rem;
+		width: 21rem;
+		font-size: 1.8rem;
+	}
+	.navigation ul li a {
+		font-size: 1.6rem;
+		width: 20rem;
+	}
+	.ft-sm-img {
+		left: 2rem;
+		top: 12rem;
+	}
+	.foot-txt-blk {
+		margin-bottom: 4rem;
+	}
+	/*=========== log-in-page ===================*/
+	.login-block {
+		padding: 2rem;
+	}
+	.login-footer {
+		padding-top: 9rem;
+	}
+	.login-play-btn {
+		width: 20rem;
+		height: 7rem;
+		line-height: 7rem;
+	}
+	.login-play-btn span {
+		right: 4rem;
+	}
+	.each-form input{
+		margin-bottom: 1rem;
+		text-align: center;
+	}
+	.login-play-btn{
+		margin-top: 1.5rem;
+	}
+	.login-block h2 {
+		margin-bottom: 0rem;
+	}
+	.login-footer .flr-img,
+	.login-footer .win-right-img {
+		top: 4.3rem;
+    	width: 6rem
+	}
+	.login-footer .pro-flw {
+		width: 6rem;
+		z-index: 2;
+		bottom: -5rem;
+    	top: auto;
+	}
+	.each-form input{
+		margin-left: 0;
+	}
+	.login-footer .ft-women-outer {
+		bottom: -32px;
+		width: 20rem;
+		z-index: 5;
+	}
+	.login-footer .ft-sm-img {
+		left: 1.2rem;
+		bottom: -12rem;
+	}
+	.login-footer .rect-img{
+		bottom: -8.6rem;
+		top: auto;
+	}
+	/*=========== game-slot-fruit page ===================*/
+	.each-feature-box {
+		width: 48%;
+		margin-bottom: 2rem;
+		margin-right: 1rem;
+	}
+	.game-fruit .login-block {
+		max-width: 100%;
+	}
+	.game-fruit .flr-img, .game-fruit .win-right-img {
+		top: 7.3rem;
+		width: 3rem;
+	}
+	.login-footer .rect-img,
+	.game-fruit .pro-flw {
+		width: 4rem;
+	}
+	.game-fruit .pro-flw{
+		bottom: -3rem;
+	}
+	.two-women-right {
+		top: 2.9rem;
+	}
+	.one-women-left{
+		top: 2.1rem;
+	}
+	/*=========== game ===================*/
+	.game-product-sec .text-center {
+		max-width: 100%;
+	}
+	.game-left-women, .game-right-women {
+		width: 13.4rem;
+		top: 96px;
+	}
+	.prize-txt h2 {
+		font-size: 2.5rem;
+	}
+	.bounc-btn {
+		width: 20.7rem;
+		height: 6rem;
+		line-height: 6rem;
+	}
+	.prize-txt h2 {
+		margin: 2rem 0;
+	}
+	.game-footer .ft-women-outer {
+		width: 52%;
+	}
+	.prize-img {
+		margin-left: -2rem;
+	}
+	.game-footer{
+		padding-top: 4rem;
+	}
+	.game-footer .ft-sm-img {
+		width: 5rem;
+	}
+	/*=========== history ===================*/
+	.game-history-sec .tab-btn .nav-tabs .nav-item .nav-link {
+		margin-bottom: 1.5rem;
+	}
+	.game-history-sec .tab-btn {
+		padding: 1rem 0 0 0;
+	}
+	.game-history-sec #example_paginate{
+		width: 100%;
+		overflow-x: auto;
+	}
+	.filter-area{
+		width: 25rem;
+		height: auto;
+	}
+	.filter-area .each-filter-box:first-child {
+		margin-top: 2rem;
+	}
+	.each-filter-box .form-select {
+		font-size: 1.4rem;
+		height: 4rem !important;
+		padding: 1rem;
+		line-height: 2rem;
+		background: url(../images/down.png) no-repeat 95% center/10px;
+	}
+	.history-game-table label{
+		font-size: 1.4rem;
+		top: -1.3rem;
+	}
+	.filter-area h3{
+		font-size: 2.5rem;
+	}
+	/*=========== raffles-page ===================*/
+	.reset-btn-grp button{
+		width: 8rem;
+		font-size: 1.2rem;
+	}
+	/*=========== Security ===================*/
+	.security-sec .each-filter-box .form-control {
+		height: 6rem !important;
+	}
+	.security-sec .tab-btn .nav-tabs .nav-item .nav-link {
+		width: 14rem;
+		font-size: 1rem;
+	}
+	.security-sec .filter-area {
+		padding: 3rem 1.5rem;
+	}
+	.security-sec .login-block {
+		margin-bottom: 2rem;
+	}
+	.security-sec .reset-btn-grp button{
+		width: 15rem;
+		margin-top: 2.5rem;
+	}
+	/*=========== profile ===================*/
+	.toggleWrapper span {
+		right: -8rem;
+		font-size: 1.4rem;
+	}
+	.toggleWrapper input.mobileToggle + label:before {
+		height: 2.4rem;
+	}
+	.toggleWrapper input.mobileToggle + label{
+		height: 2.2rem;
+	}
+	.toggleWrapper input.mobileToggle:checked + label:after {
+		left: 30px;
+	}
+	.toggleWrapper input.mobileToggle + label:before{
+		top: -0.1rem;
+	}
+	.toggleWrapper input.mobileToggle + label:after{
+		height: 2.1rem;
+		width: 2.1rem;
+		top: 0;
+	}
+	.toggleWrapper input.mobileToggle + label{
+		width: 5.4rem;
+		height: 2.6rem
+	}
+	.toggleWrapper{
+		margin-top: 2rem;
+	}
+	.prof-sec .reset-btn-grp button{
+		margin-top: 0;
+	}
+	/*=========== affiliate ===================*/
+	.affiliate-sec .filter-area {
+		width: 26rem;
+	}
+	.afflimate-share li a{
+		font-size: 1.7rem;
+	}
+	.affiliate-sec .tab-btn .nav-tabs .nav-item .nav-link{
+		width: 9rem;
+		font-size: 1rem;
+	}
+	.each-status-box ul li{
+		width: 100%;
+		font-size: 1.5rem;
+	}
+	.each-status-box{
+		margin-bottom: 1.5rem;
+	}
+	.history-game-tab-head h2 {
+		font-size: 2rem;
+	}
+	.affiliate-sec .each-filter-box button{
+		right: 1.5rem;
+	}
+	
+	
+}

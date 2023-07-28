@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'gameplayregular';
+    src: url('gameplay-webfont.eot');
+    src: url('gameplay-webfont.eot?#iefix') format('embedded-opentype'),
+         url('gameplay-webfont.woff2') format('woff2'),
+         url('gameplay-webfont.woff') format('woff'),
+         url('gameplay-webfont.svg#gameplayregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
