@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="en"> 
+ <head> 
+  <meta charset="utf-8"> 
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> 
+  <meta name="description" content=""> 
+  <meta name="author" content=""> 
+  <title>raffles</title> <!-- Bootstrap core CSS --> 
+  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet"> 
+  <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css.map"> 
+  <link href="css/demo.css" rel="stylesheet" type="text/css"> 
+  <link href="css/style.css" rel="stylesheet"> 
+  <link rel="stylesheet" href="font/stylesheet.css"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer"> 
+  <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;500;600;700&amp;display=swap&amp;family=Oswald:wght@700&amp;display=swap" rel="stylesheet"> 
+  <link rel="stylesheet" type="text/css" href="css/slick.css"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css"> 
+  <link rel="stylesheet" href="https://cdn.datatables.net/1.13.5/css/dataTables.bootstrap5.min.css"> 
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"> 
+  <link href="css/responsive.css" rel="stylesheet"> 
+  <script src="js/jquery.min.js"></script> 
+  <script src="https://code.jquery.com/jquery-3.7.0.js"></script> 
+  <script src="https://cdn.datatables.net/1.13.5/js/jquery.dataTables.min.js"></script> 
+  <script src="https://cdn.datatables.net/1.13.5/js/dataTables.bootstrap5.min.js"></script> 
+  <script src="bootstrap/js/bootstrap.min.js"></script> 
+  <script type="text/javascript" src="js/slick.js"></script> 
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script> 
+ </head> 
+ <body> 
+  <header class="header-area"> 
+   <div class="container"> 
+    <div class="head-wrap"> 
+     <div class="row justify-content-between align-items-center"> 
+      <div class="col-auto"> 
+       <div class="logo"> <a href="index.html">Virgo 777</a> 
+       </div> 
+      </div> 
+      <div class="col-auto"> <span class="nv-open-bg"></span> 
+       <div class="navigation"> 
+        <div class="row justify-content-between align-items-center"> 
+         <div class="col-auto"> 
+          <img class="close" src="images/close.png" alt=""> 
+         </div> 
+        </div> 
+        <ul> 
+         <li><a href="index.html">home</a></li> 
+         <li><a href="game-slot-animals.html">game slot animals</a></li> 
+         <li><a href="game-slot-fruits.html">game slot fruits</a></li> 
+         <li><a href="login.html">login</a></li> 
+         <li><a href="game.html">game</a></li> 
+        </ul> 
+       </div> 
+      </div> 
+      <div class="col-auto"> 
+       <div class="header-right"> <button class="hdr-srch common-bg" style="background-image: url(./images/Ellipse-n.png);"><i class="fa-solid fa-magnifying-glass"></i> 
+         <div class="hder-srch-area"> 
+          <h3>search</h3> 
+          <div class="each-filter-box"> 
+           <input type="text" class="form-control" placeholder="search"> 
+          </div> 
+         </div> </button> <button class="humburger common-bg" style="background-image: url(./images/rec-n.png);"> <span class="menu-list"></span> </button> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+   </div> 
+  </header> 
+  <main> 
+   <section class="bonus-sec login-footer raffle-sec common-bg wow animate__animated animate__fadeIn animate__slow 2s" style="background-image: url(./images/login-page-bg.png);"> 
+    <div class="game-history-sec"> <span class="one-women-left wow animate__animated animate__fadeInleft animate__slow 2s"><img class="w-100" src="images/one-women.png" alt=""></span> 
+     <div class="container-fluid"> 
+      <div class="dtl-tab-area wow animate__animated animate__fadeInUp animate__slow 2s"> 
+       <div class="tab-btn"> 
+        <ul class="nav nav-tabs" id="myTab" role="tablist"> 
+         <li class="nav-item" role="presentation"> <button class="nav-link active" id="home-tab" data-bs-toggle="tab" data-bs-target="#home" type="button" role="tab" aria-controls="home" aria-selected="false">CURRENT</button> </li> 
+         <li class="nav-item" role="presentation"> <button class="nav-link" id="menu1-tab" data-bs-toggle="tab" data-bs-target="#menu1" type="button" role="tab" aria-controls="1" aria-selected="true">COMPLETED</button> </li> 
+         <li class="nav-item" role="presentation"> <button class="nav-link" id="menu2-tab" data-bs-toggle="tab" data-bs-target="#menu2" type="button" role="tab" aria-controls="2" aria-selected="false">TICKETS</button> </li> 
+        </ul> 
+       </div> 
+       <div class="tab-content-wrapper"> 
+        <div class="tab-content" id="myTabContent"> 
+         <div class="tab-pane fade active show" id="home" role="tabpanel" aria-labelledby="home-tab"> 
+          <div class="history-game-table"> 
+           <div class="history-game-tab-head"> 
+            <div class="row justify-content-between"> 
+             <div class="col-auto"> 
+              <h2>Current raffles</h2> 
+             </div> 
+             <div class="col-auto"> 
+              <div class="gm-tab-hd-btn"> <button><i class="fa-solid fa-arrows-rotate"></i></button> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <table id="example" class="table table-striped game-his-tab" style="width:100%"> 
+            <thead> 
+             <tr> 
+              <th>Title</th> 
+              <th>Winner</th> 
+              <th>Win</th> 
+              <th>Ticket price</th> 
+              <th>Tickets sold</th> 
+              <th>current</th> 
+             </tr> 
+            </thead> 
+            <tbody> 
+             <tr> 
+              <td>Slots-1</td> 
+              <td>1</td> 
+              <td>2</td> 
+              <td>30.00</td> 
+              <td>2</td> 
+              <td></td> 
+             </tr> 
+             <tr> 
+              <td>Slots-2</td> 
+              <td>2</td> 
+              <td>4</td> 
+              <td>50.00</td> 
+              <td>4</td> 
+              <td></td> 
+             </tr> 
+             <tr> 
+              <td>Slots-3</td> 
+              <td>4</td> 
+              <td>1</td> 
+              <td>10.00</td> 
+              <td>6</td> 
+              <td></td> 
+             </tr> 
+             <tr> 
+              <td>Slots-4</td> 
+              <td>7</td> 
+              <td>8</td> 
+              <td>70.00</td> 
+              <td>8</td> 
+              <td></td> 
+             </tr> 
+             <tr> 
+              <td>Slots-5</td> 
+              <td>1</td> 
+              <td>2</td> 
+              <td>30.00</td> 
+              <td>2</td> 
+              <td></td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <div class="tab-pane fade" id="menu1" role="tabpanel" aria-labelledby="menu1-tab"> 
+          <div class="history-game-table"> 
+           <div class="history-game-tab-head"> 
+            <div class="row justify-content-between"> 
+             <div class="col-auto"> 
+              <h2>Completed raffles</h2> 
+             </div> 
+             <div class="col-auto"> 
+              <div class="gm-tab-hd-btn"> <button><i class="fa-solid fa-arrows-rotate"></i></button> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <table id="example" class="table table-striped game-his-tab example-tab1-dt" style="width:100%"> 
+            <thead> 
+             <tr> 
+              <th>Title</th> 
+              <th>Winner</th> 
+              <th>Win</th> 
+              <th>Ticket price</th> 
+              <th>Tickets sold</th> 
+              <th>Completed</th> 
+             </tr> 
+            </thead> 
+            <tbody> 
+             <tr> 
+              <td>Slots-1</td> 
+              <td>1</td> 
+              <td>2</td> 
+              <td>30.00</td> 
+              <td>2</td> 
+              <td></td> 
+             </tr> 
+             <tr> 
+              <td>Slots-2</td> 
+              <td>2</td> 
+              <td>4</td> 
+              <td>50.00</td> 
+              <td>4</td> 
+              <td></td> 
+             </tr> 
+             <tr> 
+              <td>Slots-3</td> 
+              <td>4</td> 
+              <td>1</td> 
+              <td>10.00</td> 
+              <td>6</td> 
+              <td></td> 
+             </tr> 
+             <tr> 
+              <td>Slots-4</td> 
+              <td>7</td> 
+              <td>8</td> 
+              <td>70.00</td> 
+              <td>8</td> 
+              <td></td> 
+             </tr> 
+             <tr> 
+              <td>Slots-5</td> 
+              <td>1</td> 
+              <td>2</td> 
+              <td>30.00</td> 
+              <td>2</td> 
+              <td></td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+         <div class="tab-pane fade" id="menu2" role="tabpanel" aria-labelledby="menu2-tab"> 
+          <div class="history-game-table"> 
+           <div class="history-game-tab-head"> 
+            <div class="row justify-content-between"> 
+             <div class="col-auto"> 
+              <h2>Tickets</h2> 
+             </div> 
+             <div class="col-auto"> 
+              <div class="gm-tab-hd-btn"> <button><i class="fa-solid fa-arrows-rotate"></i></button> <button id="filter-clk"><i class="fa-solid fa-magnifying-glass"></i></button> 
+               <div class="filter-area"> 
+                <h3>Search</h3> 
+                <form action=""> 
+                 <div class="each-filter-box"> <label for="'">Search</label> 
+                  <input type="password" class="form-control" placeholder="Raffle or Ticket id"> 
+                 </div> 
+                 <div class="reset-btn-grp"> <button>RESET</button> <button>SEARCH</button> 
+                 </div> 
+                </form> 
+               </div> 
+              </div> 
+             </div> 
+            </div> 
+           </div> 
+           <table id="example" class="table table-striped game-his-tab example-tab1-dt" style="width:100%"> 
+            <thead> 
+             <tr> 
+              <th>Raffle</th> 
+              <th>Ticket</th> 
+              <th>Purchased</th> 
+             </tr> 
+            </thead> 
+            <tbody> 
+             <tr> 
+              <td>Slots-1</td> 
+              <td>1</td> 
+              <td>2</td> 
+             </tr> 
+             <tr> 
+              <td>Slots-2</td> 
+              <td>2</td> 
+              <td>4</td> 
+             </tr> 
+             <tr> 
+              <td>Slots-3</td> 
+              <td>4</td> 
+              <td>1</td> 
+             </tr> 
+             <tr> 
+              <td>Slots-4</td> 
+              <td>7</td> 
+              <td>8</td> 
+             </tr> 
+             <tr> 
+              <td>Slots-5</td> 
+              <td>1</td> 
+              <td>2</td> 
+             </tr> 
+            </tbody> 
+           </table> 
+          </div> 
+         </div> 
+        </div> 
+       </div> 
+      </div> 
+     </div> 
+    </div> 
+    <footer class="footer-sec"> 
+     <div class="getin-touch"> 
+      <ul class="footer-link wow animate__animated animate__fadeInUp animate__slow 2s"> 
+       <li><a href="#">American roulette</a></li> 
+       <li><a href="#">Animal slots</a></li> 
+       <li><a href="#">Baccarat</a></li> 
+       <li><a href="#">Blackjack </a></li> 
+       <li><a href="#">Caribbean Poker</a></li> 
+       <li><a href="#"><span>Games </span></a></li> 
+       <li><a href="#"><span>Terms &amp; Conditions</span></a></li> 
+       <li><a href="#"><span>Privacy Policy</span></a></li> 
+      </ul> 
+      <p class="wow animate__animated animate__fadeInUp animate__slow 2s">Copyrights © 2023 All Rights Reserved bootesoft.com.</p> 
+     </div> <span class="ft-women-outer wow animate__animated animate__fadeInRight animate__slow 2s"> <img class="w-100" src="images/footer-women-img.png" alt=""> </span> 
+    </footer> 
+   </section> 
+  </main> 
+  <script src="js/custom.js"></script>  
+ </body>
+</html>
